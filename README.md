@@ -4,11 +4,11 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Table of contents
 
--Index.html
--Nft.css
--Readme.md 
--Images to use in your design
--Images of the final design for both desktop and mobile versions
+- Index.html
+- Nft.css
+- Readme.md 
+- Images to use in your design
+- Images of the final design for both desktop and mobile versions
 
 ### Built with
 
