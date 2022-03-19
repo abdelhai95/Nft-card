@@ -21,3 +21,11 @@ main {
     border-radius:.5em;
     height:14em;
 }
+
+#first {
+    text-decoration: none;
+    color:hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    margin-top:1em;
+}
