@@ -21,6 +21,7 @@ main {
 #main {
     border-radius:.5em;
     height:13em;
+    cursor: pointer;
 }
 
 #first {
@@ -102,4 +103,16 @@ span {
 
 span:hover {
     color: hsl(178, 100%, 50%);
+}
+
+/* mobile version */
+@media (max-width:401px) {
+    
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:60%;
+}
+    
 }
