@@ -1,8 +1,12 @@
+body {
+    background-color: hsl(217, 54%, 11%) ;
+}
 main {
     font-family: 'Outfit', sans-serif;
     display:flex;
     flex-direction: column;
     width:30%;
+    background-color: hsl(216, 50%, 16%) ;
     /* centering card */
     justify-content: center;
     margin:auto;
