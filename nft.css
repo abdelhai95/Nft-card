@@ -51,3 +51,19 @@ ul {
     margin-right:auto;
     color:hsl(178, 100%, 50%);
 }
+
+#ethereum {
+    width: .7em;
+    height:1.2em;
+    margin-right: .3em;
+    vertical-align: text-top;
+}
+
+#clock {
+    width:1.2em;
+    height:1.2em;
+    margin-right: .3em;
+    vertical-align: sub;
+    
+}
+
