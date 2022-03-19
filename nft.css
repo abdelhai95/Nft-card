@@ -29,3 +29,10 @@ main {
     font-weight: 600;
     margin-top:1em;
 }
+
+#par1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    opacity: 50%;
+}
