@@ -7,6 +7,7 @@ main {
     font-family: 'Outfit', sans-serif;
     display:flex;
     flex-direction: column;
+    flex-wrap: nowrap;
     width:25%;
     
     font-size:18px;
@@ -40,6 +41,7 @@ main {
 ul {
     list-style: none;
     display:flex;
+    flex-wrap: nowrap;
     padding:0px;
     margin-top: .1em;
     color: hsl(215, 51%, 70%);
@@ -72,7 +74,7 @@ ul {
 #container {
     display: flex;
     font-size: 14px;
-    
+    flex-wrap: nowrap;
 }
 
 #avatar {
@@ -91,4 +93,13 @@ ul {
 
 span {
     color:hsl(0, 0%, 100%);
+}
+
+/* hover effects */
+#first:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+span:hover {
+    color: hsl(178, 100%, 50%);
 }
