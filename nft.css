@@ -1,0 +1,9 @@
+main {
+    font-family: 'Outfit', sans-serif;
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    /* centering card */
+    justify-content: center;
+    margin:auto;
+}
