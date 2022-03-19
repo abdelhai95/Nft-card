@@ -6,6 +6,9 @@ main {
     display:flex;
     flex-direction: column;
     width:30%;
+    font-size:18px;
+    padding : 1em;
+    border-radius:.5em;
     background-color: hsl(216, 50%, 16%) ;
     /* centering card */
     justify-content: center;
